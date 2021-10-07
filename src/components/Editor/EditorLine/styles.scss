@@ -1,0 +1,24 @@
+
+.editorline {
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: normal;
+
+  // margin-left: -108px;
+  // padding-left: 108px;
+  // margin-right: -108px;
+  // padding-right: 108px;
+  &:first-child:before:empty {
+    content: 'Give me a name';
+  }
+  &:first-child {
+    margin-bottom: 32px !important;
+    font-weight: 600 !important;
+    font-size: 40px !important;
+    line-height: 64px !important;
+  }
+}
+
+[data-faketext] {
+  pointer-events: none;
+}

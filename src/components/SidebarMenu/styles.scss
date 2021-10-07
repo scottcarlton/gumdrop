@@ -1,0 +1,27 @@
+.sidebar--menu {
+  position: fixed;
+  top: 63px;
+  right: 0;
+  //width: 0;
+  height: calc(100% - 63px);
+  // border: 1px solid;
+  overflow: visible;
+}
+
+.sidebar--menu button {
+
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+
+}
+
+
+.sidebar__group {
+  display: grid;
+  gap: 24px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(calc(-100% - 24px), -100%);
+}

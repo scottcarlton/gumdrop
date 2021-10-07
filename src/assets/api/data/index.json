@@ -1,0 +1,339 @@
+{
+  "@id": "1029384756",
+  "title": "Jumbo Program Guide",
+  "content": [
+    {
+      "@id": "5c4739f322704a828413d723703ba252",
+      "text": "Jumbo Program Guide",
+      "type": {
+        "title": true,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "071d511deb59482cbf2ca8dd6093b68a",
+      "text": "Version 25",
+      "type": {
+        "title": false,
+        "subtitle": true,
+        "node": "B"
+      }
+    },
+    {
+      "@id": "88c287837cc44780adeb4e1151c57f3d",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "fb221e3b6dc842689964d46de2010256",
+      "text": "August 30, 2021",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "B"
+      }
+    },
+    {
+      "@id": "b5ae542887ea4b49add0738dc8d987c6",
+      "text": "(Effective for locks taken out on or after September 3, 2021)",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "B"
+      }
+    },
+    {
+      "@id": "94dab94c0c47411b8b2263cafe8de02c",
+      "text": "1.0 Fair Lending Statement",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "H1"
+      }
+    },
+    {
+      "@id": "254337d0a6eb406c882486e97079cdf4",
+      "text": "Federal law prohibits discrimination in connection with the origination of 1-4 family mortgage loans. The Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age, because an applicant receives income from a public assistance program, or because an applicant has in good faith exercised any right under the Consumer Credit Protection Act. Also, the Fair Housing Act prohibits discrimination in the sale, rental, and financing of dwellings, and in other housing-related transactions, based on race, color, national origin, religion, sex, familial status (including children under the age of 18 living with parents or legal custodians, pregnant women, and people securing custody of children under the age of 18), and disability. It is the responsibility of all buyers and sellers to ensure that they adhere to these laws and their underlying principles in connection with mortgage loans purchased and sold to MAXEX.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "P"
+      }
+    },
+    {
+      "@id": "e16d30a57f384ea2ae5a39b228157a16",
+      "text": "2.0 Underwriting Philosophy",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "H1"
+      }
+    },
+    {
+      "@id": "e9ea86b9487443d9aaa15cb6cc92c220",
+      "text": "All loans must be prudently underwritten utilizing the MAXEX program guidelines and industry standard best practices. All loans must be manually underwritten and fully documented.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "P"
+      }
+    },
+    {
+      "@id": "19820057137b4963ac4d30d867108c4b",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "63290fbed09e4bdbb8d81f61f310c2f1",
+      "text": "Seller must ensure that each loan delivered to MAXEX is in compliance with the Ability to Repay (ATR) and the Qualified Mortgage (QM) rules established by the Consumer Financial Bureau (“CFPB”) if applicable as well as all regulatory compliance regulations as outlined in Section 4.0.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "P"
+      }
+    },
+    {
+      "@id": "96075eefe72040d183b09895653a7db7",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "83694580cfe1429685a9fdfad044781d",
+      "text": "All loans submitted to MAXEX for purchase and sale must conform to the Underwriting Guidelines.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "P"
+      }
+    },
+    {
+      "@id": "cd5eb1c7a7af4f0a90415eceeb9e9d57",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "d262fb99aefa46e4891b3558009f60b3",
+      "text": "For scenarios not specifically addressed in the following Underwriting Guidelines, please contact your Client Advocate or Underwriting for assistance.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "P"
+      }
+    },
+    {
+      "@id": "17ac0f7135fe417d95964909805ab76b",
+      "text": "3.0 Products",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "H1"
+      }
+    },
+    {
+      "@id": "b8918b75c85244e89d8d43efa757cf27",
+      "text": "3.1 Products Offered",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "H2"
+      }
+    },
+    {
+      "@id": "0e640b0011104e99ac6afba101a63e86",
+      "text": "This product description describes product guidelines and requirements for the following MAXEX loan programs:",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "P"
+      }
+    },
+    {
+      "@id": "d9c340d7c8de45288eaca3c3147ca2ba",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "abf7d49fdffd45d5927f60572ec77f8f",
+      "text": "Fully Amortizing Fixed Rate 15 and 30-year terms.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI"
+      }
+    },
+    {
+      "@id": "35faf8cb48fb4e9aaab4cc1649b8799e",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "9fb59156f7a846faabddfb6d83890d7c",
+      "text": "Fully Amortizing 5yr/6m, 7yr/6m, and 10yr/6m SOFR ARM’s.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI"
+      }
+    },
+    {
+      "@id": "c4b6e8baf4f94a3fa8d7c21b3d691b0f",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "4cc9f6fd8c8f428d961048585a5004eb",
+      "text": "5yr/6m ARM qualified at the higher of the maximum potential Note rate after first adjustment or the fully indexed rate. The fully indexed rate is the sum of the index and the margin.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI LI"
+      }
+    },
+    {
+      "@id": "9c0825b98bab46f89b9d3ae4da8aa897",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "9f59a6ee8c014dc5a2989938084cdefa",
+      "text": "7yr/6m and 10yr/6m ARM products must be qualified at the higher of the Note rate or the fully indexed rate.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI LI"
+      }
+    },
+    {
+      "@id": "73fc820291294e47ac608e8a35ca1ee0",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "68f5abce30094f1889fcb34626029031",
+      "text": "No Mortgage Insurance allowed.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI"
+      }
+    },
+    {
+      "@id": "14df8a0002344bbab784c9d2d78cf7ab",
+      "text": "3.2 ARM Parameters",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "H2"
+      }
+    },
+    {
+      "@id": "cfc02186247d4ef3b6460afc6ee433b1",
+      "text": "5yr/6m SOFR ARM",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI B"
+      }
+    },
+    {
+      "@id": "c5e1cf078eea41b18d7ae98dcf1d3545",
+      "text": "The interest rate will be fixed for an initial period of five (5) years (60 payments).  The initial rate change will take place effective as of the sixty-first (61st) payment due date and on that day every 6 months thereafter, using the index figure in effect on the day that is 45 days before the interest rate adjustment date.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI TAB"
+      }
+    },
+    {
+      "@id": "f7c1d88c317e4c3992a129087d884f25",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "7d9ee12244e74436b81155d9278f4d66",
+      "text": "7yr/6m SOFR ARM",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI B"
+      }
+    },
+    {
+      "@id": "16c567d48bff40daa7e4a8ab8fc53885",
+      "text": "The interest rate will be fixed for an initial period of seven (7) years (84 payments).  The initial rate change will take place effective as of the eighty-fifth (85th) payment due date and on that day every 6 months thereafter, using the index figure in effect on the day that is 45 days before the interest rate adjustment date.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI TAB"
+      }
+    },
+    {
+      "@id": "3ca3618fd5f44680aa793704ffe8ebb9",
+      "text": "",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": null
+      }
+    },
+    {
+      "@id": "f46bf87edf394007b328752d946e60c1",
+      "text": "10yr/6m SOFR ARM",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI B"
+      }
+    },
+    {
+      "@id": "0764ea5e71da40158201876ce1017ab9",
+      "text": "The interest rate will be fixed for an initial period of ten (10) years (120 payments).  The initial rate change will take place effective as of the one hundred and twenty first (121st) payment due date and on that day every 6 months thereafter, using the index figure in effect on the day that is 45 days before the interest rate adjustment date.",
+      "type": {
+        "title": false,
+        "subtitle": false,
+        "node": "LI TAB"
+      }
+    }
+  ]
+}

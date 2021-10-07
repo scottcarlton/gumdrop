@@ -1,0 +1,19 @@
+.comment {
+  cursor: pointer;
+}
+
+.comment__wrapper {
+  display: flex;
+  padding-bottom: 12px;
+}
+
+.comment__content {
+  margin-left: 6px;
+}
+
+.comment__text {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 20px;
+  color: #1b2733;
+}

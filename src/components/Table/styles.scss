@@ -1,0 +1,30 @@
+table {
+  width: 100%;
+  min-width: 100%;
+  border-spacing: 0;
+    border-collapse: collapse;
+    border: 1px solid #c1c7cd;
+    border-radius: 5px;
+    //word-break: break-word;
+    background-color: #fff;
+}
+
+td {
+  border: 1px solid var(--hp-color-border-heavy, #c1c7cd);
+  border-right-width: 0;
+  border-bottom-width: 0;
+  min-width: 64px;
+  vertical-align: top;
+  background-clip: padding-box;
+}
+
+tr:first-child td {
+  font-weight: 700;
+}
+
+
+.cell {
+  min-height: 0;
+  border-radius: 5px;
+  padding: 5px 8px;
+}

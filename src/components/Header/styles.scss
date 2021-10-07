@@ -1,0 +1,40 @@
+
+.header {
+  display: flex;
+  align-items: center;
+
+  // border: var(--v, #2F3DF3) solid 1px;
+  height: 63px;
+  padding: 0 40px;
+}
+
+
+.header__group {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.header__group--main {
+  flex: 1 0 auto;
+}
+
+.header__group--right {
+  display: flex;
+  align-items: center;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+.timeago {
+  display: block;
+  font-size: 12px;
+  opacity: .7;
+  margin-left: 10px;
+}
+
+.link--back {
+  margin-left: -24px;
+  margin-right: 24px;
+}
